@@ -46,7 +46,7 @@ const About = () => {
             <p className="p-color">Total Users</p>
           </div>
           <div className="about-stats-card">
-            <h4 className="h-color">120k+</h4>
+            <h4 className="h-color">2m+</h4>
             <p className="p-color">Total Commands Ran</p>
           </div>
         </section>
