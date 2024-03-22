@@ -55,7 +55,7 @@ const Footer = () => {
                     alt="online-status"
                     className="onlineStatus"
                   />{" "}
-                  {isBotOnline ? "Musi is online" : "Musi is offline"}
+                  {isBotOnline ? "Codex is online" : "Codex is offline"}
                 </span>
               </li>
             </ul>
