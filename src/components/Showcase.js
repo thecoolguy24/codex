@@ -21,7 +21,7 @@ const Showcase = () => {
 
         <span className="p-color"></span>
         <div className="showcase-btn">
-          <Link href="https://discord.com/oauth2/authorize?client_id=1200772498942345297&permissions=8&scope=bot">
+          <Link href="https://discord.com/oauth2/authorize?client_id=1200772498942345297&permissions=8&response_type=code&redirect_uri=https%3A%2F%2Fcodexbot.lol%2Fadded&scope=bot+identify">
             <a className="btn h-color no-decoration">Invite now</a>
           </Link>
           <Link href="https://discord.gg/eJsvNMFG">
