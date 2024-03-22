@@ -70,7 +70,7 @@ const Footer = () => {
         <div className="footer-sec2">
           <div>
             <p className="p-color" style={{ fontSize: "20px" }}>
-              Created with ❤️ by lrdwlfy
+              codex bot is the only bot you need
             </p>
             <p className="p-color" style={{ fontSize: "20px" }}>
               {year} &copy; All rights reserved!
