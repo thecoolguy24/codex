@@ -13,7 +13,7 @@ export default function Commands() {
       animate={{ opacity: 1 }}
     >
       <Head>
-        <title>Thanks for adding me | Musi</title>
+        <title>Thanks for adding me | codex</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -22,17 +22,17 @@ export default function Commands() {
         <nav className="accordion arrows" id="commands">
           <header className="box">
             <label htmlFor="acc-close" className="box-title h-color">
-              Thank you for adding Musi to your server
+              Thank you for adding codex to your server
             </label>
           </header>
           <button className="btn">
-          <Link className="h-color no-decoration" href="https://discord.gg/YNTTT2EPqC">
+          <Link className="h-color no-decoration" href="https://discord.gg/QQn2FGC9">
             Join the support server
           </Link>
         </button>
         <button className="btn">
-          <Link className="h-color no-decoration" href="https://top.gg/bot/1137417865016918149/vote">
-            Vote for musi!
+          <Link className="h-color no-decoration" href="https://top.gg/">
+            Vote for codex!
           </Link>
         </button>
           
