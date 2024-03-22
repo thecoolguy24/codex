@@ -36,7 +36,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link className="h-color" href="/" style={{ fontSize: "32px" }}>
-                  musi.lol
+                  codexbot.lol
                 </Link>
 
                 <span
